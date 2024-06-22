@@ -1,21 +1,155 @@
 .section1 #namelogo {
-    background-color: gold;
-    border: 3px solid black;
-    width: 100px;
+    background-color: black;
+    border-radius: 15px;
+    width: 120px;
     height: 50px;
     float: left;
+    text-align: center;
+    color: white;
+    margin-left: 30px;
   }
 
 .section1 #nav{
-    background-color: gold;
+    background-color: blacks;
     width: 200px;
-    height: 50px;
+    height: 10px;
     margin-top: 2px;
     float: right;
-    border: 3px solid white
+    padding: 22px;
+    color: white;
 }
 
-.main1 #profilepic{
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    border-radius: 15px;
+    margin-top: 50px;
+}
+
+#box1{
+    background-color: gold;
+}
+
+#box2{
+    background-color: black;
+    color: white;
+}
+
+
+#brief1{
+    text-align: center;
+}
+
+.container2{
+    display: flex;
+    justify-content: center;
+}
+
+.box2{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    border-radius: 15px;
+    color: white;
+}
+
+#boxa{
+    background-color: black;
+}
+
+#boxb{
+    background-color: black;
+}
+
+#aboutme{
+    text-align: center;
+    color: white;
+}
+
+#brief2{
+    text-align: center;
+    color: white;
+}
+
+.container3{
+    display: flex;
+    justify-content: center;
+}
+
+.box3{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    border-radius: 15px;
+}
+
+#boxi{
+    background-color: goldenrod;
+}
+
+#boxii{
+    background-color: gold;
+}
+
+#brief3{
+    text-align: center;
+    color:white
+}
+
+.container4{
+    display: flex;
+    justify-content: center;
+}
+
+.box4{
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    border-radius: 15px;
+}
+
+#boxx{
+    background-color: gold;
+}
+
+#boxy{
+    background-color: goldenrod;
+}
+
+
+
+
+.section1{
+    background-color: black;
+    height: 700px;
+}
+
+.section2{
+    height: 700px;
+    background-color: gray;
+}
+
+.section3{
+    background-color: black;
+    height: 700px;
+}
+
+.section4{
+    height: 700px;
+    background-color: gray;
+}
+
+.footerl{
+    text-align: center;
+    justify-content: center;
+}
+/*.main1 #profilepic{
     width: 225px;
 }
 
@@ -31,6 +165,9 @@
     width: 225px;
     padding-right: 150px;
 }
+*/
+
+
 
 
 
